@@ -71,7 +71,5 @@ I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
