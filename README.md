@@ -28,7 +28,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I build and contribute to frontend and backend and mobile applications.
 
 - :seedling: Exploring Technical Content Writing...
